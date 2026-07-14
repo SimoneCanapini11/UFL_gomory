@@ -1,1 +1,2 @@
-# UFL_gomory
+#Analisi Computazionale dei Tagli di Gomory per il problema UFL
+Questo repository contiene l'implementazione in Python e Gurobi di un'analisi computazionale sull'Uncapacitated Facility Location (UFL) problem. Il progetto mette a confronto l'efficacia di due diverse famiglie di piani di taglio: i Tagli Frazionari Puri (FGC) e i Tagli Misto-Interi di Gomory (GMI), applicati al rilassamento lineare del problema.
